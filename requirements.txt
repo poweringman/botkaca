@@ -1,3 +1,4 @@
-https://github.com/prgofficial/pyrogram/archive/asyncio.zip
+asyncio
+pyrogram==2.0.66
 tgcrypto
 aria2p
