@@ -1,3 +1,4 @@
-asyncio
+https://github.com/mr-antisecurity/pyrogram/archive/asyncio.zip
 tgcrypto
 aria2p
+appdirs
