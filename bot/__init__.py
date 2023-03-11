@@ -11,7 +11,7 @@ CONFIG = Config({
     'MAX_LOG_SIZE' : 10 * 1024 * 1024,
     'API_HASH' : "0bf7c2521f57a94f1d699ced3c3cbf63",
     'API_ID' : "14157511",
-    'BOT_TOKEN' : "1162319913:AAGimmJlhE5IRFxc8Iu_Z_X87ZRQulALYyM",
+    'BOT_TOKEN' : "1116439519:AAHojH6Os0UTiVCWysQOCPLINQZF7tgNxZQ",
     'BOT_PASSWORD' : "",
     'CHAT_ID' : '',
     'EDIT_SLEEP' : 3,
