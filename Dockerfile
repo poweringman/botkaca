@@ -9,7 +9,7 @@ RUN python3 -m venv /app/venv
 ENV PATH="/app/venv/bin:$PATH" VIRTUAL_ENV="/app/venv"
 
 COPY requirements.txt .
-RUN pip3 install -q -r --use-pep517 requirements.txt
+RUN pip3 install --use-pep517 requirements.txt
 
 
 FROM alpine:latest as execute
